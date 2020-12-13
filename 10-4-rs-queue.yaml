@@ -17,5 +17,5 @@ spec:
     spec:
       containers:
       - name: queue
-        image: "gcr.io/kuar-demo/kuard-amd64:1"
+        image: "gcr.io/kuar-demo/kuard-arm64:1"
         imagePullPolicy: Always
